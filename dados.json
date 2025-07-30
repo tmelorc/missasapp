@@ -1,0 +1,121 @@
+{
+  "paroquias": [
+    {
+      "nome": "Paróquia Sant'Ana",
+      "capelas": [
+        {
+          "nome": "Matriz Sant'Ana",
+          "horarios": [
+            "Quinta-feira 19:30",
+            "Sábado 19:00",
+            "Domingo 10:00",
+            "Domingo 18:00"
+          ]
+        },
+        {
+          "nome": "Capela São Judas e São Simão",
+          "horarios": [
+            "Segunda-feira 19:30",
+            "Sábado 17:30"
+          ]
+        },
+        {
+          "nome": "Capela São Paulo, Apóstolo",
+          "horarios": [
+            "Sábado 17:30"
+          ]
+        },
+        {
+          "nome": "Capela Maria, Mãe da Igreja",
+          "horarios": [
+            "Sábado 17:30"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Paróquia Santa Luzia",
+      "capelas": [
+        {
+          "nome": "Capela Santa Clara",
+          "horarios": [
+            "Domingo 10:00",
+            "Sexta-feira 18:30"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Paróquia Santa Luzia",
+      "capelas": [
+        {
+          "nome": "Capela Santa Clara",
+          "horarios": [
+            "Domingo 10:00",
+            "Sexta-feira 18:30"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Paróquia Santa Luzia",
+      "capelas": [
+        {
+          "nome": "Capela Santa Clara",
+          "horarios": [
+            "Domingo 10:00",
+            "Sexta-feira 18:30"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Paróquia Santa Luzia",
+      "capelas": [
+        {
+          "nome": "Capela Santa Clara",
+          "horarios": [
+            "Domingo 10:00",
+            "Sexta-feira 18:30"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Paróquia Santa Luzia",
+      "capelas": [
+        {
+          "nome": "Capela Santa Clara",
+          "horarios": [
+            "Domingo 10:00",
+            "Sexta-feira 18:30"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Paróquia Santa Luzia",
+      "capelas": [
+        {
+          "nome": "Capela Santa Clara",
+          "horarios": [
+            "Domingo 10:00",
+            "Sexta-feira 18:30"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Paróquia Santa Luzia",
+      "capelas": [
+        {
+          "nome": "Capela Santa Clara",
+          "horarios": [
+            "Domingo 10:00",
+            "Sexta-feira 18:30"
+          ]
+        }
+      ]
+    }
+  ]
+}
